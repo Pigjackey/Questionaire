@@ -3,6 +3,10 @@
 
 using namespace std;
 
+
+/** 
+ *The main method for the program. Takes care of all of the logic and printing. Calls nothing.
+ **/
 int main()
 {
 	srand(time(NULL));
